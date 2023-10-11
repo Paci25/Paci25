@@ -1,23 +1,13 @@
 # Hello, World! 👋
 
 I'm Paccy25, and I'm on a journey to become a skilled software developer. Welcome to my GitHub profile!
-
-🌱 **About Me**
-- 💻 Aspiring Software Developer
-- 📚 Lifelong Learner
-- 🌐 Web Enthusiast
-- 🧠 Problem Solver
-
-🚀 **What I'm Learning**
 I'm currently exploring various aspects of software development, including but not limited to:
 
 - 👨‍💻 Programming languages like Python, JavaScript, and more.
 - 🌐 Web development, including HTML, CSS, and JavaScript.
 - 🔧 Version control with Git and GitHub.
-- 🧠 Problem-solving and algorithmic challenges.
 - 📦 Building projects to apply my skills.
 
-💡 **My Goals**
 I aim to become a well-rounded developer and contribute to meaningful projects. Some of my goals include:
 
 - 🌟 Creating useful software and tools.
@@ -30,12 +20,10 @@ I aim to become a well-rounded developer and contribute to meaningful projects. 
 
  -Email: [pacifiquenkurunziza151@gmail.com]
 
-🛠️ **Projects**
-Here are a few projects I've been working on. Feel free to check them out:
+-Here are a few projects I've been working on. Feel free to check them out:
 
 - [Project 1](https://github.com/Paci25/zenithpulsetraders): Brief project description.
 
-🌟 **Thank You**
 Thank you for stopping by my GitHub profile. I'm excited to learn and grow in the world of software development. 
 Let's connect, collaborate, and code together! Feel free to reach out, share your insights, or provide feedback. 🙌
 
