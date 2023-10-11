@@ -28,7 +28,7 @@ I aim to become a well-rounded developer and contribute to meaningful projects. 
 📫 **Get in Touch**
 - Twitter: [@GashugiNk](https://twitter.com/GashugiNk)
 
--Email: [pacifiquenkurunziza151@gmail.com]
+ -Email: [pacifiquenkurunziza151@gmail.com]
 
 🛠️ **Projects**
 Here are a few projects I've been working on. Feel free to check them out:
