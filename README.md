@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, World! 
 
 I'm Paccy25, and I'm on a journey to become a skilled software developer. Welcome to my GitHub profile!
 I'm currently exploring various aspects of software development, including but not limited to:
@@ -25,6 +25,6 @@ I aim to become a well-rounded developer and contribute to meaningful projects. 
 - [Project 1](https://github.com/Paci25/zenithpulsetraders): Brief project description.
 
 Thank you for stopping by my GitHub profile. I'm excited to learn and grow in the world of software development. 
-Let's connect, collaborate, and code together! Feel free to reach out, share your insights, or provide feedback. 🙌
+Let's connect, collaborate, and code together! Feel free to reach out, share your insights, or provide feedback.
 
-Happy coding! 🚀
+Happy coding! 
