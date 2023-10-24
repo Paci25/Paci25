@@ -15,7 +15,7 @@ I aim to become a well-rounded developer and contribute to meaningful projects. 
 - Collaborating with the open-source community.
 - Continuously improving and expanding my skillset.
 
-📫 **Get in Touch**
+**Get in Touch**
 - Twitter: [@GashugiNk](https://twitter.com/GashugiNk)
 
  -Email: [pacifiquenkurunziza151@gmail.com]
